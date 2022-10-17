@@ -16,4 +16,5 @@ $ odin run . -define:audio=false
 
 # SunVox notice
 Powered by SunVox (modular synth & tracker)
+
 Copyright (c) 2008 - 2022, Alexander Zolotov <nightradio@gmail.com>, WarmPlace.ru

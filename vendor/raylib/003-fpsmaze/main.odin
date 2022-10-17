@@ -1,8 +1,6 @@
 package main
 
 import "core:fmt"
-import "core:math"
-sin, cos :: math.sin, math.cos
 import rl "vendor:raylib"
 
 //------------------------------------------------------------------------------------
